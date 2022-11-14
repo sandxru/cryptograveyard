@@ -47,12 +47,13 @@ ul{
 a{
     text-decoration: none;
 }
+
 .date{
     font-size: 14px;
     text-align: center;
     margin-top: 0px;
     margin-bottom: -8px;
-    color: rgb(100, 100, 100);;
+    color: rgb(100, 100, 100);
 }
 
 p{
@@ -64,4 +65,12 @@ p{
     height: 50px;
     position: absolute;
     left: 50%;
+}
+
+#footer{
+    text-align: center;
+}
+
+#footerlink{
+    color: rgb(100, 100, 100);
 }
