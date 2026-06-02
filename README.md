@@ -6,8 +6,8 @@ Inspired by https://killedbygoogle.com
 This project tracks major crypto shutdowns, bankruptcies, liquidations, and law-enforcement takedowns.
 
 ## Current Coverage
-- Timeline cards: key events from 2022 to January 2026.
-- Monthly audit: May 2022 through February 2026, including months with no qualifying major event.
+- Timeline cards: key events from 2022 to June 2026.
+- Monthly audit: May 2022 through June 2026, including months with no qualifying major event.
 
 ## Inclusion Criteria
 - Publicly documented shutdown, bankruptcy, liquidation, or forced takedown.

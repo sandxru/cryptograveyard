@@ -1,5 +1,13 @@
 export const graveyardEntries = [
   {
+    title: "Bitcoin Depot",
+    url: "https://ir.bitcoindepot.com/news-events/press-releases/detail/127/bitcoin-depot-initiates-voluntary-chapter-11-process-to",
+    date: "May 2026",
+    description:
+      "Bitcoin Depot filed for voluntary Chapter 11 bankruptcy and shut down its entire network of over 9,000 Bitcoin ATMs due to shifting regulatory environments and litigation.",
+    kind: "Bankruptcy",
+  },
+  {
     title: "FTX (Next Distribution Date)",
     url: "https://www.prnewswire.com/news-releases/ftx-sets-next-distribution-date-and-amends-proposed-disputed-claims-reserve-reduction-302660499.html",
     date: "January 2026",
